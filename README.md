@@ -34,7 +34,7 @@ In this hw2, several **active learning** strategies are implemented using **Rand
 
 ## Visualization
 
-Each strategy’s performance is tracked and visualized through a **line chart**, showing the 5-fold CV accuracy of the Random Forest model over time as new data is actively added.
+Each strategy’s performance is tracked and visualized through a **line chart**, showing the 5-fold CV accuracy of the Random Forest model over time as new data is actively added. There is a report named 'Chang_Liu_hw2.pdf' for further information.
 
 
 ---
