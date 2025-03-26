@@ -19,6 +19,7 @@ In this hw2, several **active learning** strategies are implemented using **Rand
 ## Key Components
 
 ### 🧪 `exercise_1.ipynb` – Core Strategies  
+- (a) (b) (c) are the subquestions that needes to be specified in our homework. 
 - **`QueryByCommittee`** class: Implements the query-by-committee strategy by selecting 5 random trees from a 50-tree Random Forest and identifying samples with the highest Kullback-Leibler (KL) Divergence among the committee.
 - **Uncertainty Sampling**: Selects data points with the least confident predictions, in this classification, we use cross entropy as a measure of uncertainty.
 - **Density-Based Sampling**: Incorporates feature space density to prioritize samples from densely populated regions.
